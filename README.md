@@ -21,6 +21,3 @@ With great help from:
 * ObjectiveSugar https://github.com/mneorr/ObjectiveSugar
 * SSKeychain https://github.com/soffes/sskeychain
 
-License
-----------
-For more information on used libraries see the license.md
