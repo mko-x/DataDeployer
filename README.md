@@ -12,14 +12,14 @@ Help/Frameworks/Libs
 -----------
 With great help from:
 
-* Cocoapods
-* ARC Helper
-* MiniZip
-* Objective-Zip
-* ZLib
-* FTPManager
-* ObjectiveSugar
-* SSKeychain
+* Cocoapods http://cocoapods.org
+* ARC Helper https://gist.github.com/nicklockwood/1563325
+* MiniZip http://www.winimage.com/zLibDll/minizip.html
+* Objective-Zip https://github.com/flyingdolphinstudio/Objective-Zip
+* ZLib http://www.zlib.net/
+* FTPManager https://github.com/nkreipke/FTPManager
+* ObjectiveSugarhttps://github.com/mneorr/ObjectiveSugar
+* SSKeychain https://github.com/soffes/sskeychain
 
 License
 ----------
