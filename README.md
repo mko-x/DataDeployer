@@ -18,7 +18,7 @@ With great help from:
 * Objective-Zip https://github.com/flyingdolphinstudio/Objective-Zip
 * ZLib http://www.zlib.net/
 * FTPManager https://github.com/nkreipke/FTPManager
-* ObjectiveSugarhttps://github.com/mneorr/ObjectiveSugar
+* ObjectiveSugar https://github.com/mneorr/ObjectiveSugar
 * SSKeychain https://github.com/soffes/sskeychain
 
 License
