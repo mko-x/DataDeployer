@@ -1,0 +1,13 @@
+PODS:
+  - FTPManager (1.6.1)
+  - ObjectiveSugar (1.0.0)
+
+DEPENDENCIES:
+  - FTPManager
+  - ObjectiveSugar
+
+SPEC CHECKSUMS:
+  FTPManager: 66349d560df251de73842c7b948ec0ec0825b9f0
+  ObjectiveSugar: e094b5e368743fb63d74150f80f281aadff8ed2d
+
+COCOAPODS: 0.28.0

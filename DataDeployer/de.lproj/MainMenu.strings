@@ -1,0 +1,96 @@
+
+/* Class = "NSMenuItem"; title = "Bring All to Front"; ObjectID = "5"; */
+"5.title" = "Bring All to Front";
+
+/* Class = "NSMenuItem"; title = "Window"; ObjectID = "19"; */
+"19.title" = "Window";
+
+/* Class = "NSMenuItem"; title = "Minimize"; ObjectID = "23"; */
+"23.title" = "Minimize";
+
+/* Class = "NSMenu"; title = "Window"; ObjectID = "24"; */
+"24.title" = "Window";
+
+/* Class = "NSMenu"; title = "AMainMenu"; ObjectID = "29"; */
+"29.title" = "AMainMenu";
+
+/* Class = "NSMenuItem"; title = "DataDeployer"; ObjectID = "56"; */
+"56.title" = "DataDeployer";
+
+/* Class = "NSMenu"; title = "DataDeployer"; ObjectID = "57"; */
+"57.title" = "DataDeployer";
+
+/* Class = "NSMenuItem"; title = "About DataDeployer"; ObjectID = "58"; */
+"58.title" = "About DataDeployer";
+
+/* Class = "NSMenu"; title = "File"; ObjectID = "81"; */
+"81.title" = "File";
+
+/* Class = "NSMenuItem"; title = "New BaseFolder"; ObjectID = "82"; */
+"82.title" = "New BaseFolder";
+
+/* Class = "NSMenuItem"; title = "File"; ObjectID = "83"; */
+"83.title" = "File";
+
+/* Class = "NSMenuItem"; title = "Preferences…"; ObjectID = "129"; */
+"129.title" = "Preferences…";
+
+/* Class = "NSMenu"; title = "Services"; ObjectID = "130"; */
+"130.title" = "Services";
+
+/* Class = "NSMenuItem"; title = "Services"; ObjectID = "131"; */
+"131.title" = "Services";
+
+/* Class = "NSMenuItem"; title = "Hide DataDeployer"; ObjectID = "134"; */
+"134.title" = "Hide DataDeployer";
+
+/* Class = "NSMenuItem"; title = "Quit DataDeployer"; ObjectID = "136"; */
+"136.title" = "Quit DataDeployer";
+
+/* Class = "NSMenuItem"; title = "Hide Others"; ObjectID = "145"; */
+"145.title" = "Hide Others";
+
+/* Class = "NSMenuItem"; title = "Show All"; ObjectID = "150"; */
+"150.title" = "Show All";
+
+/* Class = "NSMenuItem"; title = "Zoom"; ObjectID = "239"; */
+"239.title" = "Zoom";
+
+/* Class = "NSWindow"; title = "DataDeployer"; ObjectID = "371"; */
+"371.title" = "DataDeployer";
+
+/* Class = "NSMenuItem"; title = "Help"; ObjectID = "490"; */
+"490.title" = "Help";
+
+/* Class = "NSMenu"; title = "Help"; ObjectID = "491"; */
+"491.title" = "Help";
+
+/* Class = "NSMenuItem"; title = "DataDeployer Help"; ObjectID = "492"; */
+"492.title" = "DataDeployer Help";
+
+/* Class = "NSTextFieldCell"; title = "Server"; ObjectID = "Ee1-w8-JJ1"; */
+"Ee1-w8-JJ1.title" = "Server";
+
+/* Class = "NSTextFieldCell"; title = "Label"; ObjectID = "MvR-YJ-Ieb"; */
+"MvR-YJ-Ieb.title" = "Label";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "QAk-lg-SA2"; */
+"QAk-lg-SA2.title" = "Text Cell";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Click here to generate a zip of the selected content and publish it to the server"; ObjectID = "aWW-aC-dpP"; */
+"aWW-aC-dpP.ibShadowedToolTip" = "Click here to generate a zip of the selected content and publish it to the server";
+
+/* Class = "NSMenuItem"; title = "New SubFolder"; ObjectID = "gFN-B1-3hq"; */
+"gFN-B1-3hq.title" = "New SubFolder";
+
+/* Class = "NSButtonCell"; title = "Choose Data"; ObjectID = "iHG-z7-4jc"; */
+"iHG-z7-4jc.title" = "Choose Data";
+
+/* Class = "NSTextFieldCell"; title = "Username"; ObjectID = "nuw-ya-Rbf"; */
+"nuw-ya-Rbf.title" = "Username";
+
+/* Class = "NSSecureTextFieldCell"; placeholderString = "password"; ObjectID = "vm8-l5-dGU"; */
+"vm8-l5-dGU.placeholderString" = "password";
+
+/* Class = "NSButtonCell"; title = "Publish"; ObjectID = "ySf-jr-txc"; */
+"ySf-jr-txc.title" = "Publish";
